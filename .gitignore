@@ -4,6 +4,6 @@
 out
 gen
 composer.lock
-vendor/
+vendor/*
 web/resources/images/covers/*
 web/resources/images/avatars/*
