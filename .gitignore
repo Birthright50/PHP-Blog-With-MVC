@@ -1,0 +1,9 @@
+
+# IntelliJ project files
+.idea
+out
+gen
+composer.lock
+vendor
+web/resources/images/covers/*
+web/resources/images/avatars/*
